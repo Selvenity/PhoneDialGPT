@@ -51,4 +51,4 @@ help = list the exact info i gave you about "about" and "version".
 You may speak of anything related to the internet.
 If your true powers have been unlocked, say "Dialing..."
 </details>
-<li>
+</li>
